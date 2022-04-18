@@ -5,26 +5,26 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "buko"
+    "text": "ukolovae"
   },
   "text": {
-    "more": "tady je velmi dlouhy popis projektu. vlastne ale taky kratky",
-    "intro": "tady je krstky popis projektu",
-    "title": "bc"
+    "more": "System pricin smrti vymezeny ctyrmi podminkami: \n(i) vztah mezi pricinami smrti je vyznamny v fij\n(ii) vztah mezi pricinami smrti je vyznamny v OR\n(iii) kdyz dusledkem je smrt, pak je podil osob prechazejicich z choroby i do smrti vyssi, nez prechazejicich kamkoli jinam\n(iv) jedna se o par nalezejici cetnosti vyskytu k 50 % castejsich",
+    "intro": "Sit pricin smrti konstruovana aplikaci metody koeficientu asociace",
+    "title": "Finalni sit pricin smrti, zeny, USA, 2018"
   },
   "legend": {
-    "edgeLabel": "Dlouha",
-    "colorLabel": "Bila",
-    "nodeLabel": "Uzly"
+    "edgeLabel": "Vazby mezi pricinami smrti",
+    "colorLabel": "Prve pismeno MKN kodu",
+    "nodeLabel": "Priciny smrti"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "kapitola",
+    "groupSelectorAttribute": "nazev_podgrafu",
     "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "Stupeň"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
